@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wellway-pwa-demo/static/css/main.e6c13ad2.css",
+    "main.js": "/wellway-pwa-demo/static/js/main.c9984d73.js",
+    "static/js/453.ff66d1b3.chunk.js": "/wellway-pwa-demo/static/js/453.ff66d1b3.chunk.js",
+    "service-worker.js": "/wellway-pwa-demo/service-worker.js",
+    "index.html": "/wellway-pwa-demo/index.html",
+    "main.e6c13ad2.css.map": "/wellway-pwa-demo/static/css/main.e6c13ad2.css.map",
+    "main.c9984d73.js.map": "/wellway-pwa-demo/static/js/main.c9984d73.js.map",
+    "453.ff66d1b3.chunk.js.map": "/wellway-pwa-demo/static/js/453.ff66d1b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c9984d73.js"
+  ]
+}
